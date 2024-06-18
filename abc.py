@@ -125,3 +125,4 @@ best_solution, best_fitness = abc.run()
 
 print(f"Best Solution: {best_solution}")
 print(f"Best Fitness: {best_fitness}")
+# type: ignore
